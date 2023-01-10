@@ -8,7 +8,7 @@ spec:
   ports:
   - name: http
     port: 4997
-    targetPort: 4998
+    targetPort: 4990
   selector:
     app: airwavetech-helloworld
     
